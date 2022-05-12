@@ -9,7 +9,7 @@ import 'tachyons';
 function App() {
   return (
     <div className='tc'>
-      <div className='tc bg-black dib br3 mw6 ma2 grow bw2 shadow-5 pa5-ns'>
+      <div className='card'>
        <Profile />
         <About />
         <Interests  />

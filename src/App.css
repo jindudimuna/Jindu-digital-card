@@ -1,5 +1,5 @@
 body{
-  background-color: white;
+  background-color: #0A5082;
 }
 
 .name{
@@ -19,15 +19,12 @@ color: white;
   text-align: center;
 
 }
-li{
-  list-style: none;
-}
 .heading{
   color: white;
 }
 
 .social-container {
-  background: #0A0B12;
+  background: cadetblue;
   padding: 25px 50px;
 }
 a {
@@ -49,4 +46,12 @@ a.Instagram {
 
 a.GitHub {
   color: aliceblue;
+}
+
+.card{
+
+  width: 40%;
+  background-color: #0A0B12;
+  height: 10%;
+  margin: 50px;
 }
